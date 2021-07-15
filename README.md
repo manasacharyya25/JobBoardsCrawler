@@ -87,3 +87,6 @@ class BlogSpider(scrapy.Spider):
 -   Set Python Interpreter to point to Project's Virtual Env Python.exe
 -   Set Working Directory to ```<ProjecDirt>\src```
 -   Check ```Run With Python Console``` under ```Execution```
+
+![image](https://user-images.githubusercontent.com/42498389/125747364-c5c2a1b5-d24b-4bfe-b2a9-311a6c3d7a94.png)
+
